@@ -1,0 +1,12 @@
+{
+	"name":"BallRunner-Server",
+	"version":"0.0.1",
+	"description":"BallRunner Server. Runs games and announces changes to BallRunner Discovery Service.",
+	"keywords":"BallRunner",
+	"homepage":"https://github.com/RazoftSource/BallRunner-Server",
+	"bugs":{
+		"url":"https://github.com/RazoftSource/BallRunner-Server/issues",
+		"email":"support@razoft.com"
+	},
+	"author":"Wojciech Bednarzak <wojtek.bednarzak@gmail.com> (http://wojtek.bednarzak.com)"
+}

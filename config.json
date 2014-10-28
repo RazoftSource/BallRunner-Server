@@ -1,0 +1,7 @@
+{
+	"host": "localhost",
+	"server_name":"BallRunner-1",
+	"max_players":100,
+	"players_per_game":5,
+	"discovery-url":"localhost:8118"
+}
